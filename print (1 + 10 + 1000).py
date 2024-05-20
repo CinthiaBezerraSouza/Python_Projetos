@@ -1,0 +1,5 @@
+print (1 + 10 + 1000)
+print (1.5 + 1  + 0.5)
+print(true)
+print (false)
+print ('Python')
